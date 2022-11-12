@@ -11,7 +11,7 @@ class courseSection extends HTMLElement{
        <div class="course-card grid-col-3">
         <div class="card">
             <h3>Graduate Programs</h3>
-            <p>Building on our strong roots in leadership, health care and education, Eduford is proud to offer an array of coed graduate programs for women and men who are ready to advance their careers and grow as leaders. The Eduford College Community Psychology Master's program will help you to meet your goals of becoming a Licensed Professional Counselor.</p>
+            <p>Building on our strong roots in leadership, health care and education, OpenLab is proud to offer an array of coed graduate programs for women and men who are ready to advance their careers and grow as leaders. The Eduford College Community Psychology Master's program will help you to meet your goals of becoming a Licensed Professional Counselor.</p>
         </div>
         <div class="card">
             <h3>Undergraduate Programs</h3>
