@@ -8,8 +8,8 @@ class facilitySection extends HTMLElement{
     <section class="facility">
        <h2>Our Facilities</h2>
        <p>We commit to meet the financial need of every admitted undergraduate student. We don't consider your ability to pay when we review your application, and we don't base our decision on whether you can cover the cost. If you're accepted here, you belong here.</p>
-       <div class="facility-card-container grid-col-3">
-        <div class="facility-card">
+       <div class="facility-card-container row">
+        <div class="facility-card col-12 col-md-4">
             <figure>
                 <img src="./Photos/library.png">
                 <figcaption>
@@ -19,7 +19,7 @@ class facilitySection extends HTMLElement{
               </figure>
         
         </div>
-        <div class="facility-card ">
+        <div class="facility-card col-12 col-md-4 ">
             <figure>
                 <img src="./Photos/basketball.png">
                 <figcaption>
@@ -30,9 +30,9 @@ class facilitySection extends HTMLElement{
         </div>
         
         
-        <div class="facility-card ">
+        <div class="facility-card col-12 col-md-4 ">
             <figure>
-                <img src="./Photos/cafeteria.png">
+                <img src="./Photos/OIP (1).jpg">
                 <figcaption>
                     <h3>Tasty and Healthy Food.</h3>
                 <p> Whether students pursue studies in Arabic, chemistry, government or one of hundreds of other opportunities, they are part of a rich legacy of academic excellence designed to serve them well in an ever-changing world.</p>
