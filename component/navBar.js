@@ -9,7 +9,7 @@ class navSection extends HTMLElement{
         `
         <nav>
         <div class="container-ham">
-          <div id="brand" class="logo"><img src="./Photos/logo copy.png" alt="Logo"></div>
+          <div id="brand" class="logo"><img src="./Photos/download2-removebg-preview.png" alt="Logo"></div>
           <div class="nav-links" id="hide-links">
            <ul class="links">
                <li><a href="index.html">Home</a></li>
