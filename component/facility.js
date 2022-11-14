@@ -32,7 +32,7 @@ class facilitySection extends HTMLElement{
         
         <div class="facility-card ">
             <figure>
-                <img src="./Photos/cafeteria.png">
+                <img src="./Photos/OIP (1).jpg">
                 <figcaption>
                     <h3>Tasty and Healthy Food.</h3>
                 <p> Whether students pursue studies in Arabic, chemistry, government or one of hundreds of other opportunities, they are part of a rich legacy of academic excellence designed to serve them well in an ever-changing world.</p>
