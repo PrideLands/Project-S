@@ -1,6 +1,6 @@
-#### Eduford University Clone
+#### OpenLab Education Clone
 
-#### by Raunak Sharma
+#### by StanDev@OpenLab.Edu.Center
 
 <h2>Why This project was chosen ?</h2>
 The aim of any university website is to provide information in a clear and accessible format, promoting the best user experience possible. 
