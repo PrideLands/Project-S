@@ -9,7 +9,7 @@ class navSection extends HTMLElement{
         `
         <nav>
         <div class="container-ham">
-          <div id="brand" class="logo"><img src="./Photos/logo copy.png" alt="Logo"></div>
+          <div id="brand" class="logo"><img src="./photos/download2-removebg-preview.png" alt="Logo"></div>
           <div class="nav-links" id="hide-links">
            <ul class="links">
                <li><a href="index.html">Home</a></li>
@@ -30,7 +30,7 @@ class navSection extends HTMLElement{
       
       <!-- Overlay content -->
       <div class="overlay-content">
-       <div class="logo"><img src="./Photos/logo.png" alt="Logo"></div>
+       <div class="logo"><img src="./photos/download2-removebg-preview.png" alt="Logo"></div>
        <div class="nav-links">
           <ul class="links">
               <li><a href="index.html">Home</a></li>
