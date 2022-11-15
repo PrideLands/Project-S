@@ -1,6 +1,6 @@
-#### Eduford University Clone
+#### OpenLab University Clone
 
-#### by Raunak Sharma
+#### by StanDev@OpenLab
 
 <h2>Why This project was chosen ?</h2>
 The aim of any university website is to provide information in a clear and accessible format, promoting the best user experience possible. 
@@ -19,6 +19,13 @@ Shadow DOM: A smaller, encapsulated DOM that is isolated from the main DOM and r
 
 <h2>WHAT features, technical things had been implemented here?</h2>
 basically in this project Html and css and JavaScript is used here <b>Web Component</b> that allow you to create custom HTML elements , Lifecycle Callbacks  <b>connectedCallback</b> to append component data to UI and use <b>Shadow Dom</b> with <b>Custom Elements.</b>
+
+<h2>Acknowledge to the theme / template creator<h2>
+Thanks to <strong> Jane.Dev <strong>the template creator. wish to do more better as a developer.
+
+<h2>Challenges encountered as a team<h2>
+thanks to all my team members..Ignis, Prince and our trainee Mr kwame
+though it's not an easy task as a team. but the goal was achive
 
 ## Technologies Used
 
@@ -67,4 +74,4 @@ basically in this project Html and css and JavaScript is used here <b>Web Compon
  </table>
  
  #### Visit Site 
- <a href="https://eduford-clone-2022.netlify.app/">Click to Visit</a>
+ <a href="https://ifesorchukwufelix@gmail.com">Click to Visit</a>
