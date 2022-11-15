@@ -48,7 +48,7 @@ a{
 
 .grid-col-2{
     --auto-grid-min-size: 40%;
-    display: grid;
+    display: inline-block;
     grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr));
     grid-gap: 2rem;
     margin-top: 18px;
